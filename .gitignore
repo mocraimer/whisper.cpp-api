@@ -61,3 +61,4 @@ cmake-build-debug/
 .cxx/
 .gradle/
 local.properties
+examples/expressAPI/node_modules/*
